@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    kenshoo kensho@gmail.com
 
 # THANKS
 
