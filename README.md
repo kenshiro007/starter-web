@@ -13,3 +13,6 @@ like this
 ## Deployment
 
 ## Copyight
+
+## How to contribute
+please add the first commit into branch master
